@@ -12,3 +12,11 @@ width: 100%;
 background-color: orange;
 text-align: center;
 }
+
+.card {
+    color: black;
+}
+
+.row{
+    padding: 2%;
+}
