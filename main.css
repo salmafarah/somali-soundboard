@@ -1,0 +1,14 @@
+body {
+    background-image: url('https://imgur.com/nBGBIXS.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+footer {
+position: fixed;
+bottom: 0;
+width: 100%;
+background-color: orange;
+text-align: center;
+}
