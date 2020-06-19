@@ -4,13 +4,17 @@ body {
     background-size: cover;
     color: white;
 }
+header {
+    background-color: orange;
+    text-align: center;
+}
 
 footer {
-position: fixed;
-bottom: 0;
-width: 100%;
-background-color: orange;
-text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: orange;
+    text-align: center;
 }
 
 .card {
@@ -19,4 +23,32 @@ text-align: center;
 
 .row{
     padding: 2%;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 20vw;
+    object-fit: cover;
+}
+
+img:hover {
+ transform: scale(1.1);
+}
+
+p {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+}
+
+.pink {
+    background-color:#901818 ;
+}
+
+.orange{
+    background-color:#ff9a00;
+}
+
+.yellow{
+    background-color: #ffc100;
 }
