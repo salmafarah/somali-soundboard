@@ -19,6 +19,7 @@ footer {
 
 .card {
     color: black;
+    cursor: pointer;
 }
 
 .row{
